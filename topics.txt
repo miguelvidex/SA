@@ -1,0 +1,10 @@
+MCL
+
+pending issues:
+	How we recover from failures?(kinapped robot problem)
+		inverse weights
+	How we adjust over time the proposal distribution?
+	------------------there are more two----------------
+	dinnamyc environments
+
+
