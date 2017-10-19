@@ -1,5 +1,14 @@
-# Boas pessoal
+# Projecto de SA
+## FastSLAM + Visual Markers
+Adicionem o nome no algoritmo em que vão começar a trabalhar
 
-Grande readme bem doce!!!
+### EKF (Miguel)
 
-## Adeus
+### Particle Filter ()
+
+### Simulador(Miguel)
+
+### Tarefas globais
+
+Instalar NumPy
+Aprender a traballhar com matrizes e vectores em python
