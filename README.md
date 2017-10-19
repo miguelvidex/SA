@@ -1,5 +1,6 @@
-# Boas pessoal
+# Projecto de SA
+## FastSLAM + Visual Markers
+Boas pessoal
 
-Grande readme bem doce
-
-## Adeus
+### Delegação de tarefas
+Miguel - fazer as cenas
