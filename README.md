@@ -7,7 +7,8 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 ### Particle Filter ()
 
 ### Simulador(Miguel)
-
+	Simulator git
+	[a link](https://github.com/miguelvidex/PioneerModel)
 ### Tarefas globais
 
 Instalar NumPy
