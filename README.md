@@ -7,9 +7,10 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 ### Particle Filter ()
 
 ### Simulador(Miguel)
-<a href="https://github.com/miguelvidex/PioneerModel">Simulator Link</a>
-
+<a href="https://github.com/miguelvidex/PioneerModel">Simulator git</a>
+	
 ### Tarefas globais
 
 Instalar NumPy
+
 Aprender a traballhar com matrizes e vectores em python
