@@ -6,7 +6,7 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 
 ### Particle Filter ()
 
-### Simulador(Miguel)
+### Simulador  (Miguel)
 <a href="https://github.com/miguelvidex/PioneerModel">Simulator git</a>
 	
 ### Tarefas globais
