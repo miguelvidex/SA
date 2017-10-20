@@ -1,0 +1,3 @@
+
+Model of the robot
+https://github.com/MobileRobots/amr-ros-config
