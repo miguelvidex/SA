@@ -14,3 +14,5 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 Instalar NumPy
 
 Aprender a traballhar com matrizes e vectores em python
+
+boas
