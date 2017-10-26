@@ -1,6 +1,6 @@
 # Projecto de SA
 ## FastSLAM + Visual Markers
-Adicionem o nome no algoritmo em que v„o comeÁar a trabalhar
+Adicionem o nome no algoritmo em que v√£o come√ßar a trabalhar
 
 ### EKF (Miguel)
 
@@ -31,3 +31,4 @@ Instalar NumPy
 
 Aprender a traballhar com matrizes e vectores em python
 
+Fazer o ekf no python... sacar as informa√ßoes do simulador
