@@ -7,7 +7,7 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 ### Particle Filter ()
 
 ### Simulador  (Miguel)
- * No workspace fazer clone das seguintes packages: 
+ * No workspace fazer clone das seguintes packages: <br />
 <a href="https://github.com/miguelvidex/aruco_ros/tree/kinetic-devel">aruco_ros</a>
 ```
 	roscd
