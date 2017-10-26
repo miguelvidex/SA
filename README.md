@@ -7,7 +7,9 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 ### Particle Filter ()
 
 ### Simulador  (Miguel)
-<a href="https://github.com/miguelvidex/PioneerModel">Simulator git</a>
+No workspace fazer clone das seguintes packages
+<a href="https://github.com/miguelvidex/PioneerModel">Pioneer Model</a>
+<a href="https://github.com/miguelvidex/aruco_ros/tree/kinetic-devel">aruco_ros</a>
 	
 ### Tarefas globais
 
