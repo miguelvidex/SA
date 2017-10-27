@@ -1,9 +1,8 @@
 # Projecto de SA
 ## FastSLAM + Visual Markers
-Adicionem o nome no algoritmo em que v√£o come√ßar a trabalhar
 
 ### EKF 
-
+"Em desenvolvimento"
 ### Particle Filter
 
 ### Simulador 
@@ -27,7 +26,4 @@ Adicionem o nome no algoritmo em que v√£o come√ßar a trabalhar
 ```
  * Seguir as instruÁıes de cada repositÛrio
 
-### Tarefas globais
 
-
-Fazer o ekf no python... sacar as informa√ßoes do simulador
