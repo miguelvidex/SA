@@ -2,11 +2,11 @@
 ## FastSLAM + Visual Markers
 Adicionem o nome no algoritmo em que vão começar a trabalhar
 
-### EKF (Miguel)
+### EKF 
 
-### Particle Filter ()
+### Particle Filter
 
-### Simulador  (Miguel)
+### Simulador 
  * No workspace fazer clone das seguintes packages:
  
 <a href="https://github.com/miguelvidex/aruco_ros/tree/kinetic-devel">aruco_ros</a>
@@ -25,10 +25,8 @@ Adicionem o nome no algoritmo em que vão começar a trabalhar
 	catkin build
 	source ~/.bashrc
 ```
-	
+ * Seguir as instruções de cada repositório
+
 ### Tarefas globais
 
-Instalar NumPy
-
-Aprender a traballhar com matrizes e vectores em python
 
