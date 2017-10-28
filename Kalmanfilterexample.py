@@ -16,10 +16,10 @@ import matplotlib.pyplot as plt
 #plt.rcParams['figure.figsize'] = (10, 8)  ---- Não sei para que serve esta linha
 
 # intial parameters
-n_iter = 200
+n_iter = 20
 sz = (n_iter,) # size of array
-x = -0.37727 # truth value (typo in example at top of p. 13 calls this z)
-z = np.random.normal(x,0.1,size=sz) # observations (normal about x, sigma=0.1)
+x1 = -0.37727 # truth value (typo in example at top of p. 13 calls this z)
+z = np.random.normal(x1,0.1,size=sz) # observations (normal about x, sigma=0.1)
 
 Q = 1e-5 # process variance
 
@@ -41,6 +41,9 @@ for k in range(1,n_iter):
     xhatminus[k] = xhat[k-1]
     Pminus[k] = P[k-1]+Q
 
+
+    print(xhatminus[k]) #test print
+
     # measurement update
     K[k] = Pminus[k]/( Pminus[k]+R )
     xhat[k] = xhatminus[k]+K[k]*(z[k]-xhatminus[k])
@@ -49,7 +52,7 @@ for k in range(1,n_iter):
 plt.figure()
 plt.plot(z,'k+',label='noisy measurements')
 plt.plot(xhat,'b-',label='a posteri estimate')
-plt.axhline(x,color='g',label='truth value')
+plt.axhline(x1,color='g',label='truth value')
 plt.legend()
 plt.title('Estimate vs. iteration step', fontweight='bold')
 plt.xlabel('Iteration')
@@ -63,3 +66,5 @@ plt.xlabel('Iteration')
 plt.ylabel('$(Voltage)^2$')
 plt.setp(plt.gca(),'ylim',[0,.01])
 plt.show()
+
+#print ("O valor de x é", xhat)
