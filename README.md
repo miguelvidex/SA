@@ -13,6 +13,11 @@
 	roscd
 	git clone git@github.com:miguelvidex/aruco_ros.git
 ```
+<a href="https://github.com/fmlourenco/ps3controller">ps3controller</a>
+```
+	roscd
+	git clone git@github.com:fmlourenco/ps3controller.git
+```
 <a href="https://github.com/miguelvidex/PioneerModel">Pioneer Model</a>
 ```
 	roscd
