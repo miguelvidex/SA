@@ -2,9 +2,7 @@
 #!/usr/bin/env python
 
 import numpy as np
-import matplotlib.pyplot as plt
-
-#plt.rcParams['figure.figsize'] = (10, 8)  ---- Não sei para que serve esta linha
+import matplotlib.pyplot as plot
 
 # intial parameters
 n_iter = 50
