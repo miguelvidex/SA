@@ -33,5 +33,6 @@
 	source ~/.bashrc
 ```
  * Seguir as instruções de cada repositório
+ 
 
 
